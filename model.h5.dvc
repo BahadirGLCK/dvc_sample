@@ -1,0 +1,3 @@
+outs:
+- md5: 6812e9fdf6bad1e568e86b91ce75812b
+  path: model.h5
